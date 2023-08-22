@@ -1,4 +1,4 @@
-import ProfileFullImage from "@/assets/profileFull.svg";
+import ProfileFullImage from "@/assets/profilefull.svg";
 import TimeIcon from "@/assets/time.svg";
 import UsersIcon from "@/assets/users.svg";
 import UnitedStates from "@/assets/unitedstates.svg";
