@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ProfileFullImage from "@/assets/profileFull.svg";
 import TimeIcon from "@/assets/time.svg";
 import UsersIcon from "@/assets/users.svg";
@@ -71,8 +70,6 @@ export const UserInformations = () => {
           <p className="text-sm text-[rgb(175,175,175)]">Dias seguidos</p>
         </div>
       </div>
-
-      
     </div>
   );
 };
